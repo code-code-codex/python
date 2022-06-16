@@ -1,2 +1,2 @@
-# python
-Just some useful python snippets 
+# Python
+Just some useful python (commented) snippets and resources  
